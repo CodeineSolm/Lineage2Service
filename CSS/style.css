@@ -11,7 +11,7 @@ body{background-color: #ccc;}
 #footer{width: 80%; margin: 0 10%; height: 50px;clear: both;
 padding-top: 20px;}
 
-#footer, #nav ul, #main_title, .small_card, .big_card{
+#footer, #nav ul, #main_title, .small_card, .big_card, #nav2 ul{
     background-color: white;
 }
 /*Навигация*/
@@ -122,3 +122,5 @@ width: auto;
 {
     width: 100%;
 }
+#nav2{float: left; width: 200px; height: auto; margin-top: 20px;}
+#nav2 ul{height: 582px;}

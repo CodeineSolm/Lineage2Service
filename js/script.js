@@ -1,6 +1,6 @@
 function SetImg(selected_url)
 {
-    var item = document.getElementById('preview');
+    var item = document.getElementById('previewpic');
     item.src = selected_url;
 }
 
